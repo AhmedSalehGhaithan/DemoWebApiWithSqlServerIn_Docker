@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebApiWithSqlServerInDocker", "DemoWebApiWithSqlServerInDocker\DemoWebApiWithSqlServerInDocker.csproj", "{636F2A22-F042-4D0D-ABAD-7F49276D5C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636F2A22-F042-4D0D-ABAD-7F49276D5C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636F2A22-F042-4D0D-ABAD-7F49276D5C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636F2A22-F042-4D0D-ABAD-7F49276D5C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636F2A22-F042-4D0D-ABAD-7F49276D5C19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E58DF029-26A1-47D8-99DD-E25A0CC413BC}
+	EndGlobalSection
+EndGlobal
